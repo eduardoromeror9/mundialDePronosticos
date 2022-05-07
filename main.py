@@ -10,8 +10,8 @@ legend = """
   \n"""
 
 jornadas = """  
-        Jornadas: 17
-        Juegos: 51
+        Jornadas: 18
+        Juegos: 54
 
         
         Carlos Jose cree
@@ -28,19 +28,19 @@ info = """
      que LE GANE AL KING
      Gana el que va PRIMERO!!
 
-     Vivin debe 1, va a consulta!!
+     Daniel debe 1!!
 """
 
 title = PrettyTable(['🔥🔥 Mundial de pronosticos 🔥🔥'])
 tabla_dia = PrettyTable(['Players', 'G-P', 'DIF', 'PCT %'])
 
-tabla_dia.add_row([' Christian', '33-17', '-', ' 645 '])
-tabla_dia.add_row([' Erycherd',  '32-19', '1', ' 630 '])
-tabla_dia.add_row([' Daniel',    '32-19', '1', ' 630 '])
-tabla_dia.add_row([' Eduardo',   '30-21', '3', ' 590 '])
-tabla_dia.add_row([' CarlosJ',   '30-21', '3', ' 590 '])
-tabla_dia.add_row([' Kleydi',    '29-22', '4', ' 570 '])
-tabla_dia.add_row([' Steven',    '27-24', '6', ' 530 '])
+tabla_dia.add_row([' Christian', '35-19', '-', ' 650 '])
+tabla_dia.add_row([' Erycherd',  '35-19', '-', ' 650 '])
+tabla_dia.add_row([' Daniel',    '34-19', '1', ' 630 '])
+tabla_dia.add_row([' CarlosJ',   '33-21', '3', ' 610 '])
+tabla_dia.add_row([' Eduardo',   '32-22', '3', ' 590 '])
+tabla_dia.add_row([' Kleydi',    '32-22', '3', ' 590 '])
+tabla_dia.add_row([' Steven',    '30-24', '5', ' 555 '])
 
 
 
