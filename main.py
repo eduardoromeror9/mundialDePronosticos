@@ -1,48 +1,40 @@
 from prettytable import PrettyTable
 
 legend = """
- 🔥🔥 INFORMACION IMPORTANTE 🔥🔥
- Don Eduardo Romero,
- mejor conocido como 
- el KING de los PRONOSTICOS
- ES EL VIGENTE CAMPEON
- HASTA QUE SE DEMUESTRE LO CONTRARIO
+  🔥🔥 INFORMACION IMPORTANTE 🔥🔥
+  Don Eduardo Romero,
+  mejor conocido como 
+  el KING de los PRONOSTICOS
+  ES EL VIGENTE CAMPEON
+         HASTA QUE 
+  SE DEMUESTRE LO CONTRARIO
   \n"""
 
 jornadas = """  
-        Jornadas: 20
-        Juegos: 60
-        
-        Carlos Jose cree
-        que va a ganar
-        pero ese no le gana
-        ni a paquito
-        jugando reloj            
+        Jornadas: 21
+        Juegos: 63           
 """
 
 info = """
-     Le informo a los ilusos que
-     no gana el 
-     que LE GANE AL KING
-     Gana el que va PRIMERO!!
+        Kleydi   debe 1
+        Erycherd debe 1
 """
 
 title = PrettyTable(['🔥🔥 Mundial de pronosticos 🔥🔥'])
 tabla_dia = PrettyTable(['Players', 'G-P', 'DIF', 'PCT %'])
-
-tabla_dia.add_row([' Daniel',    '37-23', '-', ' 615 '])
-tabla_dia.add_row([' Christian', '37-23', '-', ' 615 '])
-tabla_dia.add_row([' CarlosJ',   '37-23', '-', ' 615 '])
-tabla_dia.add_row([' Erycherd',  '36-24', '1', ' 600 '])
-tabla_dia.add_row([' Eduardo',   '34-26', '3', ' 565 '])
-tabla_dia.add_row([' Kleydi',    '34-26', '3', ' 565 '])
-tabla_dia.add_row([' Steven',    '34-26', '3', ' 565 '])
+tabla_dia.add_row([' CarlosJ',   '39-24', '-', ' 620 ']) 
+tabla_dia.add_row([' Erycherd',  '38-24', '1', ' 610 '])
+tabla_dia.add_row([' Christian', '38-25', '1', ' 605 '])
+tabla_dia.add_row([' Daniel',    '37-26', '2', ' 585 '])
+tabla_dia.add_row([' Eduardo',   '35-28', '4', ' 555 '])
+tabla_dia.add_row([' Steven',    '35-28', '4', ' 555 '])
+tabla_dia.add_row([' Kleydi',    '34-28', '5', ' 540 '])
 
 
 
 print('\n',jornadas)
-print('\n   ⚾⚾⚾⚾ Tabla del DIA ⚾⚾⚾⚾\n')
 print(info)
+print('\n   ⚾⚾⚾⚾ Tabla del DIA ⚾⚾⚾⚾\n')
 print(title)
 print(tabla_dia,'\n')
 print(legend)
