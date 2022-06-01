@@ -3,16 +3,16 @@ from prettytable import PrettyTable
 legend = """
   🔥🔥 INFORMACION IMPORTANTE 🔥🔥
   Don Eduardo Romero,
-  mejor conocido como 
+  mejor conocido como
   el KING de los PRONOSTICOS
   ES EL VIGENTE CAMPEON
-         HASTA QUE 
+         HASTA QUE
   SE DEMUESTRE LO CONTRARIO
   \n"""
 
-jornadas = """  
-          Jornadas: 33
-          Juegos: 106
+jornadas = """
+          Jornadas: 34
+          Juegos: 109
 """
 
 info = """
