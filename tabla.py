@@ -11,31 +11,31 @@ legend = """
   \n"""
 
 jornadas = """
-          Juegos  : 214
-          Jornadas: 66
-          Erycherd debe 3
+          Juegos  : 217
+          Jornadas: 67
+          Daniel debe 1
 """
 
 info = """
-🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊
-🧊                                🧊
-🧊      CarlosJ a la NEVERA       🧊
-🧊      Steven a la NEVERA        🧊  
-🧊                                🧊
-🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊
+ 🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊
+ 🧊                                🧊
+ 🧊      CarlosJ a la NEVERA       🧊
+ 🧊      Steven a la NEVERA        🧊  
+ 🧊                                🧊
+ 🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊
         
 """
 
 title = PrettyTable(['🔥🔥 Mundial de pronosticos  🔥🔥 '])
 tabla_dia = PrettyTable(['Players', 'G-P', 'DIF', 'PCT %'])
 
-tabla_dia.add_row([' Eduardo',   '127-87', '-', ' 595 '])
-tabla_dia.add_row([' CarlosJ',   '127-87', '-', ' 595 '])
-tabla_dia.add_row([' Steven',    '126-88', '1', ' 590 '])
-tabla_dia.add_row([' Kleydi',    '124-90', '3', ' 580 '])
-tabla_dia.add_row([' Daniel',    '119-95', '8', ' 555 '])
-tabla_dia.add_row([' Erycherd',  '114-97', '13',' 540 '])
-tabla_dia.add_row([' Christian', '112-102','15',' 520 '])
+tabla_dia.add_row([' Eduardo',  '129-88', '-', ' 595 '])
+tabla_dia.add_row([' Steven',   '128-89', '1', ' 590 '])
+tabla_dia.add_row([' CarlosJ',  '128-89', '1', ' 590 '])
+tabla_dia.add_row([' Kleydi',   '127-90', '2', ' 580 '])
+tabla_dia.add_row([' Daniel',   '120-95', '9', ' 555 '])
+tabla_dia.add_row([' Erycherd', '117-100','12',' 540 '])
+tabla_dia.add_row([' Christian','115-102','14',' 530 '])
 
 
 print('\n',jornadas)
