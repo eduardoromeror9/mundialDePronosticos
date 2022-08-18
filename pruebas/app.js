@@ -77,34 +77,34 @@ function table(input) {
 }
 
 const test = [
-  { Pos: 1 ,Nombre: "Eduardo",   Juegos: 238, Ganados: 142, Perdidos: '96',  Dif: '-', Porcentaje: '595', diasPerfectos: 'noSabe' },
-  { Pos: 2 ,Nombre: "Steven",    Juegos: 238, Ganados: 141, Perdidos: '97',  Dif:  1,  Porcentaje: '590', diasPerfectos: 'noSabe' },
-  { Pos: 4 ,Nombre: "CarlosJ",   Juegos: 238, Ganados: 139, Perdidos: '99',  Dif:  3,  Porcentaje: '585', diasPerfectos: 'Dice que 537'},
-  { Pos: 3 ,Nombre: "Kleydi",    Juegos: 238, Ganados: 138, Perdidos: '100', Dif:  4,  Porcentaje: '580', diasPerfectos: 'noSabe' },
-  { Pos: 5 ,Nombre: "Daniel",    Juegos: 238, Ganados: 132, Perdidos: '106', Dif:  10, Porcentaje: '555', diasPerfectos: 'noSabe'},
-  { Pos: 7 ,Nombre: "Erycherd",  Juegos: 238, Ganados: 126, Perdidos: '112', Dif:  16, Porcentaje: '530', diasPerfectos: 'noSabe'},
-  { Pos: 6 ,Nombre: "Christian", Juegos: 238, Ganados: 126, Perdidos: '112', Dif:  16, Porcentaje: '530', diasPerfectos: 'noSabe'}
+  { Pos: 1 ,Nombre: "Eduardo",   Juegos: 241, Ganados: 144, Perdidos: '97',  Dif: '-', Porcentaje: '595', diasPerfectos: 'noSabe' },
+  { Pos: 2 ,Nombre: "Steven",    Juegos: 241, Ganados: 143, Perdidos: '98',  Dif:  1,  Porcentaje: '590', diasPerfectos: 'noSabe' },
+  { Pos: 3 ,Nombre: "Kleydi",    Juegos: 241, Ganados: 141, Perdidos: '100', Dif:  3,  Porcentaje: '585', diasPerfectos: 'noSabe' },
+  { Pos: 4 ,Nombre: "CarlosJ",   Juegos: 241, Ganados: 141, Perdidos: '100', Dif:  3,  Porcentaje: '585', diasPerfectos: 'Dice que 537'},
+  { Pos: 5 ,Nombre: "Daniel",    Juegos: 241, Ganados: 134, Perdidos: '107', Dif:  10, Porcentaje: '555', diasPerfectos: 'noSabe'},
+  { Pos: 7 ,Nombre: "Erycherd",  Juegos: 241, Ganados: 129, Perdidos: '112', Dif:  15, Porcentaje: '535', diasPerfectos: 'noSabe'},
+  { Pos: 6 ,Nombre: "Christian", Juegos: 241, Ganados: 128, Perdidos: '113', Dif:  16, Porcentaje: '530', diasPerfectos: 'noSabe'}
 ];
 
 let legend = 
-  `\n                      🔥🔥 INFORMACION IMPORTANTE 🔥🔥
-                           Don Eduardo Romero,
-                           mejor conocido como
-                           el KING de los PRONOSTICOS
-                           ES EL VIGENTE CAMPEON
-                                  HASTA QUE
-                           SE DEMUESTRE LO CONTRARIO
+  `\n                         🔥🔥 INFORMACION IMPORTANTE 🔥🔥
+                              Don Eduardo Romero,
+                              mejor conocido como
+                              el KING de los PRONOSTICOS
+                              ES EL VIGENTE CAMPEON
+                                     HASTA QUE
+                              SE DEMUESTRE LO CONTRARIO
   \n`
   console.log(legend.yellow.bold);
 
 let info =
- `                      🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊
-                      🧊                                🧊
-                      🧊      CarlosJ a la NEVERA       🧊
-                      🧊      Steven a la NEVERA        🧊  
-                      🧊      Kleydi a la NEVERA        🧊  
-                      🧊                                🧊
-                      🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊 \n`
+ `                         🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊
+                         🧊                                🧊
+                         🧊      CarlosJ a la NEVERA       🧊
+                         🧊      Steven a la NEVERA        🧊  
+                         🧊      Kleydi a la NEVERA        🧊  
+                         🧊                                🧊
+                         🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊 \n`
 
 console.log(info.blue.bold);
 
