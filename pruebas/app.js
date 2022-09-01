@@ -22,13 +22,13 @@ function table(input) {
 }
 
 const test = [
-  { Pos: 1 ,Nombre: "Eduardo",   Juegos: 262, Ganados: 158, Perdidos: 104,  Dif: '-',  Porcentaje: 605, diasPerfectos: 5},
-  { Pos: 2 ,Nombre: "Steven",    Juegos: 262, Ganados: 155, Perdidos: 107,  Dif:  3,   Porcentaje: 590, diasPerfectos: 4},
-  { Pos: 3 ,Nombre: "CarlosJ",   Juegos: 262, Ganados: 154, Perdidos: 108,  Dif:  4,   Porcentaje: 585, diasPerfectos: 98},
-  { Pos: 4 ,Nombre: "Kleydi",    Juegos: 262, Ganados: 153, Perdidos: 109,  Dif:  5,   Porcentaje: 580, diasPerfectos: 3},
-  { Pos: 5 ,Nombre: "Daniel",    Juegos: 262, Ganados: 146, Perdidos: 116,  Dif:  12,  Porcentaje: 560, diasPerfectos: 2},
-  { Pos: 6 ,Nombre: "Christian", Juegos: 262, Ganados: 140, Perdidos: 122,  Dif:  18,  Porcentaje: 535, diasPerfectos: 1},
-  { Pos: 7 ,Nombre: "Erycherd",  Juegos: 262, Ganados: 138, Perdidos: 124,  Dif:  20,  Porcentaje: 525, diasPerfectos: 2}
+  { Pos: 1 ,Nombre: "Eduardo",   Juegos: 265, Ganados: 161, Perdidos: 104,  Dif: '-',  Porcentaje: 610, diasPerfectos: 5},
+  { Pos: 2 ,Nombre: "Steven",    Juegos: 265, Ganados: 158, Perdidos: 107,  Dif:  3,   Porcentaje: 595, diasPerfectos: 4},
+  { Pos: 3 ,Nombre: "Kleydi",    Juegos: 265, Ganados: 156, Perdidos: 109,  Dif:  5,   Porcentaje: 585, diasPerfectos: 3},
+  { Pos: 4 ,Nombre: "CarlosJ",   Juegos: 265, Ganados: 156, Perdidos: 109,  Dif:  5,   Porcentaje: 585, diasPerfectos: 98},
+  { Pos: 5 ,Nombre: "Daniel",    Juegos: 265, Ganados: 149, Perdidos: 116,  Dif:  12,  Porcentaje: 560, diasPerfectos: 2},
+  { Pos: 6 ,Nombre: "Christian", Juegos: 265, Ganados: 142, Perdidos: 123,  Dif:  19,  Porcentaje: 535, diasPerfectos: 1},
+  { Pos: 7 ,Nombre: "Erycherd",  Juegos: 264, Ganados: 139, Perdidos: 125,  Dif:  22,  Porcentaje: 525, diasPerfectos: 2}
 ];
 
 let legend = 
@@ -46,9 +46,9 @@ let legend =
 let info =`
                          🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊
                          🧊                                🧊
-                         🧊      CarlosJ a la NEVERA       🧊
-                         🧊      Steven a la NEVERA        🧊  
-                         🧊      Kleydi a la NEVERA        🧊  
+                         🧊   CarlosJ QUE PRENDA SU VELA   🧊
+                         🧊   CarlosJ QUE PRENDA SU VELA   🧊  
+                         🧊   CarlosJ QUE PRENDA SU VELA   🧊  
                          🧊                                🧊
                          🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊 \n`
 
