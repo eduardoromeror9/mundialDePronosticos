@@ -22,13 +22,16 @@ function table(input) {
 }
 
 const test = [
-  { Pos: 1 ,Nombre: "Eduardo",   Juegos: 265, Ganados: 161, Perdidos: 104,  Dif: '-',  Porcentaje: 610, diasPerfectos: 5},
-  { Pos: 2 ,Nombre: "Steven",    Juegos: 265, Ganados: 158, Perdidos: 107,  Dif:  3,   Porcentaje: 595, diasPerfectos: 4},
-  { Pos: 3 ,Nombre: "Kleydi",    Juegos: 265, Ganados: 156, Perdidos: 109,  Dif:  5,   Porcentaje: 585, diasPerfectos: 3},
-  { Pos: 4 ,Nombre: "CarlosJ",   Juegos: 265, Ganados: 156, Perdidos: 109,  Dif:  5,   Porcentaje: 585, diasPerfectos: 98},
-  { Pos: 5 ,Nombre: "Daniel",    Juegos: 265, Ganados: 149, Perdidos: 116,  Dif:  12,  Porcentaje: 560, diasPerfectos: 2},
-  { Pos: 6 ,Nombre: "Christian", Juegos: 265, Ganados: 142, Perdidos: 123,  Dif:  19,  Porcentaje: 535, diasPerfectos: 1},
-  { Pos: 7 ,Nombre: "Erycherd",  Juegos: 264, Ganados: 139, Perdidos: 125,  Dif:  22,  Porcentaje: 525, diasPerfectos: 2}
+  { Pos: 1 ,Nombre: "Eduardo",   Juegos: 271, Ganados: 164, Perdidos: 107,  Dif: '-',  Porcentaje: 605, diasPerfectos: 5},
+  { Pos: 2 ,Nombre: "Steven",    Juegos: 271, Ganados: 163, Perdidos: 108,  Dif:  1,   Porcentaje: 600, diasPerfectos: 4},
+  { Pos: 3 ,Nombre: "CarlosJ",   Juegos: 271, Ganados: 162, Perdidos: 109,  Dif:  2,   Porcentaje: 595, diasPerfectos: 9165458},
+  { Pos: 4 ,Nombre: "Kleydi",    Juegos: 271, Ganados: 158, Perdidos: 113,  Dif:  6,   Porcentaje: 585, diasPerfectos: 3},
+  { Pos: 6 ,Nombre: "Christian", Juegos: 271, Ganados: 148, Perdidos: 123,  Dif:  16,  Porcentaje: 545, diasPerfectos: 1},
+  { Pos: 7 ,Nombre: "Erycherd",  Juegos: 271, Ganados: 143, Perdidos: 127,  Dif:  21,  Porcentaje: 525, diasPerfectos: 2},
+  { Pos: 'X' ,Nombre: "--------",  Juegos:  '--------', Ganados: '--------', Perdidos: '--------',  Dif:  '--------',  Porcentaje: '--------', diasPerfectos: '--------'},
+  { Pos: 'X' ,Nombre: "NULOS",  Juegos:  'NULOS', Ganados: 'NULOS', Perdidos: 'NULOS',  Dif:  'NULOS',  Porcentaje: 'NULOS', diasPerfectos: 'NULOS'},
+  { Pos: 5 ,Nombre: "Daniel",    Juegos: 271, Ganados: 153, Perdidos: 118,  Dif:  11,  Porcentaje: 565, diasPerfectos: 2},
+
 ];
 
 let legend = 
