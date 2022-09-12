@@ -22,13 +22,13 @@ function table(input) {
 }
 
 const test = [
-  { Pos: 1 ,Nombre: "Eduardo",   Juegos: 280, Ganados: 171, Perdidos: 109,  Dif: '-',  Porcentaje: 610, diasPerfectos: 5},
-  { Pos: 2 ,Nombre: "Steven",    Juegos: 280, Ganados: 169, Perdidos: 111,  Dif:  2,   Porcentaje: 600, diasPerfectos: 4},
-  { Pos: 3 ,Nombre: "CarlosJ",   Juegos: 280, Ganados: 167, Perdidos: 113,  Dif:  4,   Porcentaje: 595, diasPerfectos: 9165458},
-  { Pos: 4 ,Nombre: "Kleydi",    Juegos: 280, Ganados: 163, Perdidos: 117,  Dif:  8,   Porcentaje: 580, diasPerfectos: 3},
-  { Pos: 5 ,Nombre: "Daniel",    Juegos: 280, Ganados: 156, Perdidos: 124,  Dif:  15,  Porcentaje: 560, diasPerfectos: 2},
-  { Pos: 6 ,Nombre: "Christian", Juegos: 280, Ganados: 153, Perdidos: 127,  Dif:  18,  Porcentaje: 545, diasPerfectos: 1},
-  { Pos: 7 ,Nombre: "Erycherd",  Juegos: 280, Ganados: 149, Perdidos: 130,  Dif:  22,  Porcentaje: 530, diasPerfectos: 2},
+  { Pos: 1 ,Nombre: "Eduardo",   Juegos: 283, Ganados: 174, Perdidos: 109,  Dif: '-',  Porcentaje: 615, diasPerfectos: 8},
+  { Pos: 2 ,Nombre: "Steven",    Juegos: 283, Ganados: 171, Perdidos: 112,  Dif:  3,   Porcentaje: 600, diasPerfectos: 10},
+  { Pos: 3 ,Nombre: "CarlosJ",   Juegos: 283, Ganados: 168, Perdidos: 115,  Dif:  6,   Porcentaje: 590, diasPerfectos: 9165458},
+  { Pos: 4 ,Nombre: "Kleydi",    Juegos: 283, Ganados: 165, Perdidos: 118,  Dif:  9,   Porcentaje: 580, diasPerfectos: 9},
+  { Pos: 5 ,Nombre: "Daniel",    Juegos: 283, Ganados: 159, Perdidos: 124,  Dif:  15,  Porcentaje: 560, diasPerfectos: 1},
+  { Pos: 6 ,Nombre: "Christian", Juegos: 283, Ganados: 155, Perdidos: 128,  Dif:  19,  Porcentaje: 545, diasPerfectos: 17},
+  { Pos: 7 ,Nombre: "Erycherd",  Juegos: 283, Ganados: 153, Perdidos: 130,  Dif:  21,  Porcentaje: 540, diasPerfectos: 5},
 ];
 
 let legend = 
@@ -46,9 +46,9 @@ let legend =
 let info =`
                          🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊
                          🧊                                🧊
-                         🧊   CarlosJ QUE PRENDA SU VELA   🧊
-                         🧊   CarlosJ QUE PRENDA SU VELA   🧊  
-                         🧊   CarlosJ QUE PRENDA SU VELA   🧊  
+                         🧊      Huele a Back To Back      🧊
+                         🧊      Huele a Back To Back      🧊  
+                         🧊      Huele a Back To Back      🧊  
                          🧊                                🧊
                          🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊 \n`
 
