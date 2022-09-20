@@ -22,13 +22,13 @@ function table(input) {
 }
 
 const test = [
-  { Pos: 1 ,Nombre: "Eduardo",   Juegos: 297, Ganados: 182, Perdidos: 115,  Dif: '-', Porcentaje: 615, diasPerfectos: 8},
-  { Pos: 2 ,Nombre: "Steven",    Juegos: 297, Ganados: 179, Perdidos: 118,  Dif:  3,  Porcentaje: 600, diasPerfectos: 10},
-  { Pos: 3 ,Nombre: "CarlosJ",   Juegos: 297, Ganados: 175, Perdidos: 122,  Dif:  7,  Porcentaje: 590, diasPerfectos: 9165458},
-  { Pos: 4 ,Nombre: "Kleydi",    Juegos: 297, Ganados: 172, Perdidos: 125,  Dif:  10, Porcentaje: 590, diasPerfectos: 9},
-  { Pos: 5 ,Nombre: "Daniel",    Juegos: 297, Ganados: 168, Perdidos: 129,  Dif:  14, Porcentaje: 565, diasPerfectos: 1},
-  { Pos: 6 ,Nombre: "Erycherd",  Juegos: 297, Ganados: 162, Perdidos: 135,  Dif:  20, Porcentaje: 545, diasPerfectos: 5},
-  { Pos: 7 ,Nombre: "Christian", Juegos: 297, Ganados: 162, Perdidos: 135,  Dif:  20, Porcentaje: 545, diasPerfectos: 17},
+  { Pos: 1 ,Nombre: "Eduardo",   Juegos: 303, Ganados: 186, Perdidos: 117,  Dif: '-', Porcentaje: 615, diasPerfectos: 8},
+  { Pos: 2 ,Nombre: "Steven",    Juegos: 303, Ganados: 184, Perdidos: 119,  Dif:  2,  Porcentaje: 610, diasPerfectos: 10},
+  { Pos: 3 ,Nombre: "CarlosJ",   Juegos: 303, Ganados: 180, Perdidos: 123,  Dif:  6,  Porcentaje: 595, diasPerfectos: 9165458},
+  { Pos: 4 ,Nombre: "Kleydi",    Juegos: 302, Ganados: 175, Perdidos: 127,  Dif:  11, Porcentaje: 580, diasPerfectos: 9},
+  { Pos: 5 ,Nombre: "Daniel",    Juegos: 303, Ganados: 173, Perdidos: 130,  Dif:  13, Porcentaje: 570, diasPerfectos: 1},
+  { Pos: 6 ,Nombre: "Erycherd",  Juegos: 302, Ganados: 167, Perdidos: 135,  Dif:  19, Porcentaje: 550, diasPerfectos: 5},
+  { Pos: 7 ,Nombre: "Christian", Juegos: 303, Ganados: 166, Perdidos: 137,  Dif:  20, Porcentaje: 545, diasPerfectos: 17},
 ];
 
 let legend = 
