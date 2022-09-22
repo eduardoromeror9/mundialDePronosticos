@@ -22,13 +22,13 @@ function table(input) {
 }
 
 const test = [
-  { Pos: 1 ,Nombre: "Eduardo",   Juegos: 303, Ganados: 186, Perdidos: 117,  Dif: '-', Porcentaje: 615, diasPerfectos: 8},
-  { Pos: 2 ,Nombre: "Steven",    Juegos: 303, Ganados: 184, Perdidos: 119,  Dif:  2,  Porcentaje: 610, diasPerfectos: 10},
-  { Pos: 3 ,Nombre: "CarlosJ",   Juegos: 303, Ganados: 180, Perdidos: 123,  Dif:  6,  Porcentaje: 595, diasPerfectos: 9165458},
-  { Pos: 4 ,Nombre: "Kleydi",    Juegos: 302, Ganados: 175, Perdidos: 127,  Dif:  11, Porcentaje: 580, diasPerfectos: 9},
-  { Pos: 5 ,Nombre: "Daniel",    Juegos: 303, Ganados: 173, Perdidos: 130,  Dif:  13, Porcentaje: 570, diasPerfectos: 1},
-  { Pos: 6 ,Nombre: "Erycherd",  Juegos: 302, Ganados: 167, Perdidos: 135,  Dif:  19, Porcentaje: 550, diasPerfectos: 5},
-  { Pos: 7 ,Nombre: "Christian", Juegos: 303, Ganados: 166, Perdidos: 137,  Dif:  20, Porcentaje: 545, diasPerfectos: 17},
+  { Pos: 1 ,Nombre: "Eduardo",   Juegos: 306, Ganados: 186, Perdidos: 120,  Dif: '-', Porcentaje: 610, diasPerfectos: 8},
+  { Pos: 2 ,Nombre: "Steven",    Juegos: 306, Ganados: 185, Perdidos: 121,  Dif:  1,  Porcentaje: 605, diasPerfectos: 10},
+  { Pos: 3 ,Nombre: "CarlosJ",   Juegos: 306, Ganados: 182, Perdidos: 124,  Dif:  4,  Porcentaje: 595, diasPerfectos: 9165458},
+  { Pos: 4 ,Nombre: "Kleydi",    Juegos: 306, Ganados: 178, Perdidos: 128,  Dif:  8,  Porcentaje: 580, diasPerfectos: 9},
+  { Pos: 5 ,Nombre: "Daniel",    Juegos: 306, Ganados: 173, Perdidos: 133,  Dif:  13, Porcentaje: 565, diasPerfectos: 1},
+  { Pos: 6 ,Nombre: "Erycherd",  Juegos: 306, Ganados: 168, Perdidos: 138,  Dif:  18, Porcentaje: 550, diasPerfectos: 5},
+  { Pos: 7 ,Nombre: "Christian", Juegos: 306, Ganados: 167, Perdidos: 139,  Dif:  19, Porcentaje: 545, diasPerfectos: 17},
 ];
 
 let legend = 
@@ -46,9 +46,9 @@ let legend =
 let info =`
                          🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊
                          🧊                                🧊
-                         🧊      Huele a Back To Back      🧊
-                         🧊      Huele a Back To Back      🧊  
-                         🧊      Huele a Back To Back      🧊  
+                         🧊      NO Huele a Back To Back   🧊
+                         🧊      NO Huele a Back To Back   🧊  
+                         🧊      NO Huele a Back To Back   🧊  
                          🧊                                🧊
                          🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊🧊 \n`
 
